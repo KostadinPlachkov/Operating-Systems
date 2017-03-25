@@ -1,6 +1,5 @@
 # Operating-Systems
 
----
 * Processor and architecture  
 * RAM and Storage  
 * Communication  
@@ -9,7 +8,6 @@
 * Memory allocation exercise  
 * Determine the speed of the memories  
 * Select best memories for different occasion  
-
 ---
 * Processes
 * OS support of processes
@@ -17,8 +15,8 @@
 * Spawn threads
 * Join threads
 * Solve complex thread problems
-
 ---
+
 * Process communication
 * Process spawning
 * Dead-lock
