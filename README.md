@@ -1,6 +1,6 @@
 # Operating-Systems
 
-**Hardware, CPU, Memory, Communication**
+## Hardware, CPU, Memory, Communication
 * Processor and architecture  
 * RAM and Storage  
 * Communication  
@@ -10,15 +10,15 @@
 * Determine the speed of the memories  
 * Select best memories for different occasion  
 
-##Processes and Threads
+## Processes and Threads
 * Processes
 * OS support of processes
 * Threads
 * Spawn threads
 * Join threads
 * Solve complex thread problems
-#
-**Parallel Programming, Threads and Asynchronous programming**
+
+## Parallel Programming, Threads and Asynchronous programming
 * Process communication
 * Process spawning
 * Dead-lock
