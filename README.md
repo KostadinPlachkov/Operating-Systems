@@ -1,13 +1,13 @@
 # Operating-Systems
 
-* Processor and architecture
-* RAM and Storage
-* Communication
-* Global Architecture
-* Software components of the Global Architecture
-* Memory allocation exercise
-* Determine the speed of the memories
-* Select best memories for different occasion
+* Processor and architecture  
+* RAM and Storage  
+* Communication  
+* Global Architecture  
+* Software components of the Global Architecture  
+* Memory allocation exercise  
+* Determine the speed of the memories  
+* Select best memories for different occasion  
 
 
 * Processes
