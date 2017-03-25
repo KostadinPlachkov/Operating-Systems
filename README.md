@@ -9,15 +9,15 @@ Hardware, CPU, Memory, Communication
 * Memory allocation exercise  
 * Determine the speed of the memories  
 * Select best memories for different occasion  
-----
-
+--------
+Processes and threads
 * Processes
 * OS support of processes
 * Threads
 * Spawn threads
 * Join threads
 * Solve complex thread problems
-----
+--------
 
 * Process communication
 * Process spawning
