@@ -9,7 +9,7 @@
 * Memory allocation exercise  
 * Determine the speed of the memories  
 * Select best memories for different occasion  
---------
+
 **Processes and Threads**
 * Processes
 * OS support of processes
@@ -17,7 +17,7 @@
 * Spawn threads
 * Join threads
 * Solve complex thread problems
---------
+
 **Parallel Programming, Threads and Asynchronous programming**
 * Process communication
 * Process spawning
