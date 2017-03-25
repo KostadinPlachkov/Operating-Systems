@@ -1,5 +1,6 @@
 # Operating-Systems
 
+---
 * Processor and architecture  
 * RAM and Storage  
 * Communication  
@@ -9,7 +10,7 @@
 * Determine the speed of the memories  
 * Select best memories for different occasion  
 
-
+---
 * Processes
 * OS support of processes
 * Threads
@@ -17,7 +18,7 @@
 * Join threads
 * Solve complex thread problems
 
-
+---
 * Process communication
 * Process spawning
 * Dead-lock
