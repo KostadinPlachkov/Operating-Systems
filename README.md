@@ -1,5 +1,6 @@
 # Operating-Systems
 
+Hardware, CPU, Memory, Communication
 * Processor and architecture  
 * RAM and Storage  
 * Communication  
